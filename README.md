@@ -1,58 +1,51 @@
-<h1 align="center">👋 Hi, I'm Tomás Roncoroni</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Building efficient and scalable solutions</h3>
+<h1 align="center">👋 Hola, soy Tomás Roncoroni</h1>
+<h3 align="center">💻 Desarrollador Full Stack | 🚀 Construyendo soluciones eficientes y escalables</h3>
 
 <p align="center">
   <a href="https://github.com/tomironco">
-    <img src="https://komarev.com/ghpvc/?username=tomironco&label=Profile%20views&color=0e75b6&style=flat" alt="tomironco" />
+    <img src="https://komarev.com/ghpvc/?username=tomironco&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="tomironco" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre mí
 
-- 🎯 Passionate about **creating high-performance applications** and solving real-world problems with technology.  
-- 🧠 Constantly learning about **modern frameworks**, **clean architecture**, and **software scalability**.  
-- ⚙️ Experienced in **Python**, **Django**, **React**, and **.NET** ecosystems.  
-- 🧩 I enjoy working on **desktop apps**, **SaaS platforms**, and **automation tools**.  
-- 📫 You can reach me at **[LinkedIn](https://linkedin.com/in/tomasroncoroni)**  
+- 🎯 Apasionado por **crear aplicaciones de alto rendimiento** y resolver problemas reales con tecnología.  
+- 🧠 En constante aprendizaje sobre **arquitecturas limpias**, **frameworks modernos** y **escalabilidad de software**.  
+- ⚙️ Experiencia en **Python**, **Django**, **React** y **.NET**.  
+- 🧩 Disfruto trabajar en **aplicaciones de escritorio**, **plataformas SaaS** y **herramientas de automatización**.  
+- 📫 Podés contactarme en [LinkedIn](https://linkedin.com/in/tomasroncoroni).
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tecnologías
 
-#### 🖥️ Languages
+#### 🖥️ Lenguajes
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cs" />
 </p>
 
-#### ⚙️ Frameworks & Tools
+#### ⚙️ Frameworks y herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django,react,dotnet,bootstrap,sqlite,git,github,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomironco&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomironco&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomironco&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomironco&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-- 🧮 **[KioskoApp](https://github.com/tomironco/kiosko_app)** – Desktop app for sales, stock control, and license management using **PyQt5** + **SQLite**.  
-- 💪 **[GymSaaS](#)** – SaaS platform for gym management with **Supabase**, **React**, and **PostgreSQL** *(in progress)*.  
-
----
-
-### 🌐 Connect With Me
+### 🌐 Conectá conmigo
 
 <p align="center">
   <a href="https://linkedin.com/in/tomasroncoroni" target="_blank">
@@ -67,9 +60,6 @@
 ---
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
-  <br>
+  <i>“El código es como el humor: cuando hay que explicarlo, es malo.”</i><br>
   — Cory House
 </p>
-
----
